@@ -21,6 +21,8 @@ Designed and deployed a secure 3-tier Azure infrastructure using Virtual Machine
 ## Architecture
 Traffic is distributed through Azure Load Balancer to two Ubuntu VMs hosted inside Azure Virtual Network.
 
+“Project resources were decommissioned after implementation to optimize cloud cost.”
+
 ---
 
 ## Virtual Machines
